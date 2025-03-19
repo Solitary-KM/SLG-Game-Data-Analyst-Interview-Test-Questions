@@ -5,7 +5,7 @@ SLG游戏数据分析师面试测试题
 
 应该挺常见的，留档纪念了
 
-从hr开始给我的感觉就是草台班子，到面试时也确实感觉是草台班子，还一直想套我话...真恶心
+从hr开始给我的感觉就是草台班子，到了约定时间让我等了半小时，到面试时也确实感觉是草台班子，还一直想套我话...真恶心
 ![picture](https://github.com/SolitaryEgo/SLG-Game-Data-Analyst-Interview-Test-Questions/blob/main/IMG_20250319_210947.jpg)
 让我感觉最逆天的是面试全程我都看不清对方😂，可能本来就是没想招人吧🤢。
 ![picture2](https://github.com/SolitaryEgo/SLG-Game-Data-Analyst-Interview-Test-Questions/blob/main/IMG_20250319_210748.jpg)
